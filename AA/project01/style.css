@@ -1,0 +1,95 @@
+.box{
+    width: 600px;
+    height: 600px;
+    border: solid 1px black;
+    background-color: cornsilk;
+    margin: auto;
+    cursor: pointer;
+    text-align: center;
+}
+.outer_box{
+    width: 600px;
+    height: 100px;
+    border: solid 1px black;
+    background-color: cornsilk;
+    margin: auto;
+    margin-top: 10px;
+}
+.black_box{
+    width: 80px;
+    height: 80px;
+    border: solid 1px black;
+    background-image: url(image/1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin: 4px;
+    padding: 3px;
+    cursor: pointer;
+}
+.black_box1{
+    width: 80px;
+    height: 80px;
+    border: solid 1px black;
+    background-image: url(image/2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin: 4px;
+    padding: 3px;
+    cursor: pointer;
+}
+.black_box2{
+    width: 80px;
+    height: 80px;
+    border: solid 1px black;
+    background-image: url(image/3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin: 4px;
+    padding: 3px;
+    cursor: pointer;
+}
+.black_box3{
+    width: 80px;
+    height: 80px;
+    border: solid 1px black;
+    background-image: url(image/4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin: 4px;
+    padding: 3px;
+    cursor: pointer;
+}
+.black_box4{
+    width: 80px;
+    height: 80px;
+    border: solid 1px black;
+    background-image: url(image/5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin: 4px;
+    padding: 3px;
+    cursor: pointer;
+}
+.black_box5{
+    width: 80px;
+    height: 80px;
+    border: solid 1px black;
+    background-image: url(image/6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: left;
+    margin: 4px;
+    padding: 3px;
+    cursor: pointer;
+}
